@@ -1,4 +1,1 @@
-def ujj():
-    print('teri ma ki chut')
-
-
+print("hello ")
