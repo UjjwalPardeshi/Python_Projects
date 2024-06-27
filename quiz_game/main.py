@@ -8,8 +8,8 @@ if playing.lower() != "yes":
 print("Okay! Let's play :)")
 score = 0
 
-answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+answer = input("how many members are theree in bhosdamon? ")
+if answer.lower() == "6":
     print('Correct!')
     score += 1
 else:
