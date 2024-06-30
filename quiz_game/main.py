@@ -15,8 +15,8 @@ if answer.lower() == "6":
 else:
     print("Incorrect!")
 
-answer = input("What does GPU stand for? ")
-if answer.lower() == "graphics processing unit":
+answer = input("where is the one piece? ")
+if answer.lower() == "laugh tale ":
     print('Correct!')
     score += 1
 else:
